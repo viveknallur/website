@@ -1,4 +1,5 @@
 # Site settings (baseurl must end with a trailing slash!)
+#baseurl = "https://www.scss.tcd.ie/~nallurv/"
 baseurl = "http://viveknallur.github.io/"
 languageCode = "en-us"
 title = "Vivek Nallur"
@@ -185,7 +186,7 @@ SectionPagesMenu = "Main"
             name = "Smart and Sustainable Cities"
             link = "smartcities/"
             image = "images/sustainablecity.jpg"
-			always_show_text = true
+            always_show_text = true
 
         [[Params.Cells.List]]
 

@@ -1,6 +1,7 @@
 ---
 title: "Research Interests"
 description: "My research interests"
+image: "/images/research/no-failed-experiment.jpg"
 tags: ["research", "self-adaptive", "emergence", "socio-technical systems","feedback loops"]
 date: "2014-04-02"
 slug: ""
