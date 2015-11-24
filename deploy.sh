@@ -1,7 +1,7 @@
 #!/bin/bash
 
 echo -e "\033[0;32mRemoving the public directory if it exists...\033[0m"
-rm -rf public/*
+rm -rf public
 
 echo -e "\033[0;32mRemoving the git cache of public...\033[0m"
 git rm --cached public
