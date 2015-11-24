@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Smartcities on Vivek Nallur</title>
+    <link>http://viveknallur.github.io/smartcities/</link>
+    <description>Recent content in Smartcities on Vivek Nallur</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright &amp;#169; by Vivek Nallur</copyright>
+    <lastBuildDate>Sun, 02 Aug 2015 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://viveknallur.github.io/smartcities/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Future Cities</title>
+      <link>http://viveknallur.github.io/smartcities/futurecities/</link>
+      <pubDate>Sun, 02 Aug 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://viveknallur.github.io/smartcities/futurecities/</guid>
+      <description>
+
+&lt;p&gt;The &lt;a href=&#34;https://www.tcd.ie/futurecities/&#34;&gt;Future cities research centre&lt;/a&gt; is a multi-disciplinary centre at Trinity College Dublin. Its mission is to
+conduct holistic research into all aspects of a smart and sustainable city, and not just view a city as a agglomeration of sensors and people.  It connects
+researchers across Trinity, and brings to bear multiple perspectives on the pressing problems of urban living. Typical smart city projects tend to concentrate
+on leveraging sensors and the much-vaunted &lt;em&gt;Internet of Things&lt;/em&gt;, to create technical solutions to human problems. We believe that while technology can and should
+play an important enabling role in a sustainable future, ultimately the citizens must take responsibility for their city. We investigate projects that can bring
+to bear legal policy, urban planning, economic incentives, and educational awareness to nudge citizens towards a healthier and sustainable future.&lt;/p&gt;
+
+&lt;h4 id=&#34;active-areas-of-research:0902b81ceffb0826a9dc92843526137b&#34;&gt;Active Areas of Research&lt;/h4&gt;
+
+&lt;p&gt;We work on areas such as:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://www.tcd.ie/futurecities/research/mobility/&#34;&gt;Smart Mobility&lt;/a&gt;: Future Cities&amp;rsquo; Mobility research strand focuses on addressing the effects of increasing road usage including delay, unpredictable journey times, exessive pollution, and driver frustration as well as to improve road safety.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://www.tcd.ie/futurecities/research/energy/&#34;&gt;Energy Management&lt;/a&gt;: The Future Cities’ Energy research strand focuses on technology development of platforms that enable services for urban energy management. The approaches investigated include forecasting energy demand, improving energy efficiency within the built environment and integrating renewable energy sources into the electrical grid.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://www.tcd.ie/futurecities/research/pollution/&#34;&gt;Pollution&lt;/a&gt;: The Future Cities’ Pollution research strand looks at improving methodologies for monitoring levels of urban pollution.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://www.tcd.ie/futurecities/research/citizen-engagement/&#34;&gt;Citizen Engagement&lt;/a&gt;: This research strands addresses how citizens can be integrated early in the research pipeline, to ensure that practical considerations are taken into account, highlighting potential negative impact on society (e.g., through weakened privacy and security) and effectively to co-design potential futures.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://www.tcd.ie/futurecities/research/urban-scale-data/&#34;&gt;Urban-Scale Data&lt;/a&gt;: This research strand addresses middleware and communications architectures to allow high volumes of data from public, business-owned and user-contributed sensors to be gathered and exploited by smart cities. This area merges wireless sensor networks, vehicular sensor networks, and participatory sensing.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h5 id=&#34;interested:0902b81ceffb0826a9dc92843526137b&#34;&gt;Interested?&lt;/h5&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.tcd.ie/futurecities/contact/&#34;&gt;Talk to us&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

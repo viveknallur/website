@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Emergence on Vivek Nallur</title>
+    <link>http://viveknallur.github.io/categories/emergence/</link>
+    <description>Recent content in Emergence on Vivek Nallur</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright &amp;#169; by Vivek Nallur</copyright>
+    <lastBuildDate>Mon, 02 Nov 2015 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://viveknallur.github.io/categories/emergence/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Thesis Submission!</title>
+      <link>http://viveknallur.github.io/posts/eamonn-submits/</link>
+      <pubDate>Mon, 02 Nov 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://viveknallur.github.io/posts/eamonn-submits/</guid>
+      <description>
+
+&lt;h5 id=&#34;eamonn-o-toole-submits-his-thesis-on-decentralized-emergence-detection:dee999b9b5019ee00d8b9e52e357b2eb&#34;&gt;Eamonn O&amp;rsquo;Toole submits his thesis on decentralized emergence detection!&lt;/h5&gt;
+
+&lt;p&gt;Eamonn has just submitted his thesis entitled &amp;ldquo;Decentralized Detection of Emergence in Complex Adaptive Systems&amp;rdquo;. Way to go, Eamonn! Very well done! Of course, it&amp;rsquo;s really special to me since he&amp;rsquo;s my first PhD student mentee. It&amp;rsquo;s been a pleasure discussing philosophies, ideas, problems and solution concepts with you, mate. Hope you go far!&lt;/p&gt;
+
+&lt;p&gt;The thesis looks at the problem of detecting emergence in a large-scale complex adaptive systems, where each part could potentially be adapting independently. Given the large-scale and decentralized nature of such systems, the big questions are:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;Is it possible to detect emergence in a decentralized fashion?&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;How do you know which variables are interesting, given that the environment
+and the components themselves, change dynamically?&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;For answers to these questions (and more), read his thesis! (We&amp;rsquo;ve also submitted a paper to TAAS. Fingers crossed!).&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

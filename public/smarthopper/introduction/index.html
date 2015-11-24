@@ -1,0 +1,297 @@
+<!DOCTYPE html>
+<html 
+    lang="en-us"
+    class="no-js"
+>
+
+
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="author" content="">
+    <meta name="description" content="">
+    
+    <meta name="generator" content="Hugo 0.14" />
+    <meta name="generation-date" content="2015-11-24 22:00:42.6106651 &#43;0000 GMT">
+    <title>SmartHopper &middot; Vivek Nallur</title>
+    <link rel="shortcut icon" href="http://viveknallur.github.io/img/favicon.ico">
+    <link rel="icon" href="http://viveknallur.github.io/img/favicon.ico">
+    
+<link rel="stylesheet" href="http://viveknallur.github.io/css/materialize.min.css">
+
+
+<link rel="stylesheet" href="http://viveknallur.github.io/css/font-awesome.min.css">
+
+
+    
+    <link rel="stylesheet" href="http://viveknallur.github.io/css/styles/railscasts.css">
+
+
+
+<link rel="stylesheet" href="http://viveknallur.github.io/css/lightbox.css">
+
+
+<link rel="stylesheet" href="http://viveknallur.github.io/css/main.css">
+
+
+    <script src="http://viveknallur.github.io/js/modernizr-latest.js"></script>
+    <script src="http://viveknallur.github.io/js/lazysizes.min.js"></script>
+    <script src="http://viveknallur.github.io/js/ls.noscript.min.js"></script>
+
+    <script>
+        window.lazySizesConfig = window.lazySizesConfig || {};
+        lazySizesConfig.addClasses = true;
+        lazySizesConfig.loadMode = 2;
+    </script>
+
+    
+</head>
+
+
+
+<body class="page-colors minimum-viewport-height">
+    
+
+<nav class="main-menu menu-colors">
+    <ul class="menu menu-colors no-list-float">
+        <li><a href="http://viveknallur.github.io/"><i class="fa fa-home fa-2x"></i></a></li>
+        <li>
+            <a href="#!"><i class="fa fa-bars fa-2x"></i></a>
+
+            
+            <ul class="menu flexible-width menu-colors no-list-float">
+                
+                
+                    <li >
+                    
+                        <a href="http://viveknallur.github.io//contact/">
+                            
+                            <span>contact</span>
+                        </a>
+                    
+                    </li>
+                
+                    <li >
+                    
+                        <a href="http://viveknallur.github.io//diversify/">
+                            
+                            <span>diversify</span>
+                        </a>
+                    
+                    </li>
+                
+                    <li >
+                    
+                        <a href="http://viveknallur.github.io//posts/">
+                            
+                            <span>posts</span>
+                        </a>
+                    
+                    </li>
+                
+                    <li >
+                    
+                        <a href="http://viveknallur.github.io//research/">
+                            
+                            <span>research</span>
+                        </a>
+                    
+                    </li>
+                
+                    <li >
+                    
+                        <a href="http://viveknallur.github.io//smartcities/">
+                            
+                            <span>smartcities</span>
+                        </a>
+                    
+                    </li>
+                
+                    <li class="active">
+                    
+                        <a href="http://viveknallur.github.io//smarthopper/">
+                            
+                            <span>smarthopper</span>
+                        </a>
+                    
+                    </li>
+                
+            </ul>
+        </li>
+        <li><a href="#!" data-lightbox-id="searchbox"><i class="fa fa-search fa-2x"></i></a></li>
+        
+            <li class="blue-grey-text" style="border-top: 1px solid;"></li>
+            
+                <li>
+                    <a href="https://www.github.com/viveknallur">
+                        <i class="fa fa-fa fa-github fa-2x"></i>
+                    </a>
+                </li>
+            
+        
+        <li class="blue-grey-text" style="border-top: 1px solid;"></li>
+        <li>
+            <a href="" type="application/rss+xml" target="_blank">
+                <i class="fa fa-rss fa-2x"></i>
+            </a>
+        </li>
+    </ul>
+</nav>
+
+<div id="searchbox" class="no-display">
+    <div class="valign-wrapper fill-container">
+        <div class="valign large-form horizontal-center-hack">
+            <form method="get" id="search" action="http://duckduckgo.com/">
+    <input type="hidden" name="sites"value="http://viveknallur.github.io/"/>
+    <input type="hidden" name="ka" value="h"/>
+    <input type="hidden" name="k7" value="#fafafa"/>
+    <input type="hidden" name="kj" value="#3f3f3f"/>
+    <input type="hidden" name="ky" value="#fafafa"/>
+    <input type="hidden" name="kx" value="b"/>
+    <input type="hidden" name="kt" value="Helvetica"/>
+    <input type="text" name="q" maxlength="255" placeholder="Search"/>
+    <input type="submit" value="DuckDuckGo Search" style="visibility: hidden;" />
+</form>
+
+
+        </div>
+    </div>
+</div>
+
+
+
+
+
+    <div class="main-content">
+        <div class="center-space">
+            <div class="article-colors">
+                
+                <article>
+                    <header>
+                        <h1 class="article-title">SmartHopper</h1>
+                        <time class="date-color">Mon Jan 01, 0001</time>
+                        <span class="separator">|</span>
+                        
+<ul class="categories">
+    <li>
+        <i class="fa fa-book"></i>
+    </li>
+    
+        <li><a href="http://viveknallur.github.io/categories/research">research</a></li>
+    
+        <li><a href="http://viveknallur.github.io/categories/software-engineering">software engineering</a></li>
+    
+</ul>
+
+
+                        <span class="separator">|</span>
+                        
+<ul class="tags">
+    <li>
+        <i class="fa fa-tags"></i>
+    </li>
+    
+        <li><a href="http://viveknallur.github.io/tags/research">research</a></li>
+    
+        <li><a href="http://viveknallur.github.io/tags/smart-mobility">smart mobility</a></li>
+    
+        <li><a href="http://viveknallur.github.io/tags/smart-cities">smart cities</a></li>
+    
+        <li><a href="http://viveknallur.github.io/tags/participatory-sensing">participatory sensing</a></li>
+    
+        <li><a href="http://viveknallur.github.io/tags/noise">noise</a></li>
+    
+</ul>
+
+
+                    </header>
+
+                    <hr>
+
+                    <section>
+                        
+                            
+
+<h4 id="introduction:2767292a573dc549b9b4297b701af3ab">Introduction</h4>
+
+<p>Ever since the SETI@Home project took off, the idea of using `crowd power&rsquo; to help out with computing needs has been explored by many projects. The explosion of
+the smartphone market opened up a niche in this voluntary computing world. Suddenly, participatory sensing became a means to harness the power of the crowd
+in an almost-literal sense.  Given enough enthusiastic participants, researchers could potentially get access to sensor measurements that could be statistically
+massaged to get a treasure-trove of GPS-tagged data. However, the excitement of such potential quickly waned as the number of enthusiastic participants dropped with
+each additional participatory sensing app, that arrived on the app-market.</p>
+
+<p>We believe that more people can be motivated to contribute data to research, if this contribution can be linked to a tangible benefit that citizens can receive
+in turn, for volunteering their time and data. <em>SmartHopper</em> is a smart mobility platform, developed at TCD, that incorporates participatory sensing and combines
+it with an open-source routing engine, to enable citizens to generate smarter routes for themselves.</p>
+
+<h4 id="basic-idea:2767292a573dc549b9b4297b701af3ab">Basic Idea</h4>
+
+<p>We collaborate with the good folks working on the <a href="http://www.noisetube.net/">NoiseTube Project</a> at <a href="http://www.vub.ac.be/">Vrije Universiteit Brussel</a> and ask volunteers to walk around Dublin city, so that
+we get noise measurements from different streets. Given enough walkers, we are able to generate a <code>Noise Map</code> of Dublin on a street-by-street basis. Then we transform
+this data, and insert it into a Redis store. We also forked the open-source <a href="http://graphhopper.com/">GraphHopper</a> project, to allow it to be deployed and queried
+using REST-based API. Now, when you query SmartHopper, it is able to combine a query for a route from (say) Trinity College to (say) Dundrum, with the noise information
+gathered from the volunteers and generate the `least noisy&rsquo; route between them. This can be useful for parents with infants, or elderly people wishing to take a walk,
+as it enables them to choose a route, that is least affected by noise pollution. For more information about the architecture of the system, check out our <a href="http://www.tara.tcd.ie/handle/2262/73955?show=full">paper</a>, published
+at the Open Source Systems conference. Also, check out the SmartHopper UI page, where you can see screenshots of the system in action.</p>
+
+<h4 id="other-ideas:2767292a573dc549b9b4297b701af3ab">Other Ideas</h4>
+
+<p>Noise is merely an exemplar of what is possible, by combining sensor data with other software. Smarter routes can be enabled, limited only by the availability of data.
+We are trying to get air pollution data of several kinds, which can be quite useful for sufferers of pollen allergies, asthma, etc. to generate routes that may
+not necessarily be the fastest or the shortest, but are more to their liking. We&rsquo;re looking into tapping into Open Data from any source that is able to generate
+consistent and city-wide data, which can then be automatically turned into query-able routes! Smart Mobility is not merely about using technology to find
+taxis or public transport, but also being able to query the state-of-the-city, in a personalized manner. If you want to talk to us about data that you have, or ideas
+to increase the smartness of SmartHopper, get in <a href="http://viveknallur.github.io/contact/">touch</a>.</p>
+
+                        
+                    </section>
+
+                    <footer class="right-align">
+                        <p><small>Copyright &#169; by Vivek Nallur</small></p>
+                    </footer>
+
+                    
+
+
+                </article>
+            </div>
+        </div>
+    </div>
+
+    
+<script src="http://viveknallur.github.io/js/jquery-2.1.4.min.js"></script>
+
+
+<script src="http://viveknallur.github.io/js/materialize.min.js"></script>
+
+
+<script src="http://viveknallur.github.io/js/imagesloaded.pkgd.min.js"></script>
+
+
+<script src="http://viveknallur.github.io/js/masonry.pkgd.min.js"></script>
+
+
+    
+    <script src="http://viveknallur.github.io/js/highlight.pack.js"></script>
+
+
+
+<script src="http://viveknallur.github.io/js/lightbox.min.js"></script>
+
+
+<script src="http://viveknallur.github.io/js/jquery.infinitescroll.min.js"></script>
+
+
+<script src="http://viveknallur.github.io/js/main.js"></script>
+
+
+</body>
+
+</html>
+
+
+
+
+

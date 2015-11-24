@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>http://viveknallur.github.io/</loc>
+    <lastmod>2015-11-05T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://viveknallur.github.io/posts/futurecities-youtube/</loc>
+    <lastmod>2015-11-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://viveknallur.github.io/posts/eamonn-submits/</loc>
+    <lastmod>2015-11-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://viveknallur.github.io/research/reproducible_research/</loc>
+    <lastmod>2015-08-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://viveknallur.github.io/smartcities/futurecities/</loc>
+    <lastmod>2015-08-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://viveknallur.github.io/diversify/algorithmic-diversity/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://viveknallur.github.io/research/interests/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://viveknallur.github.io/diversify/introduction/</loc>
+    <lastmod>2013-04-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://viveknallur.github.io/contact/about/</loc>
+  </url>
+  
+  <url>
+    <loc>http://viveknallur.github.io/contact/details/</loc>
+  </url>
+  
+  <url>
+    <loc>http://viveknallur.github.io/smarthopper/introduction/</loc>
+  </url>
+  
+  <url>
+    <loc>http://viveknallur.github.io/smarthopper/least_noise_routing/</loc>
+  </url>
+  
+  <url>
+    <loc>http://viveknallur.github.io/smarthopper/on_youtube/</loc>
+  </url>
+  
+</urlset>
