@@ -1,10 +1,10 @@
 #!/bin/bash
 
 echo -e "\033[0;32mRemoving the public directory if it exists...\033[0m"
-rm -r public
+rm -rf public
 
 echo -e "\033[0;32mRemoving the git cache of public...\033[0m"
-git rm --cached public
+git rm -r --cached public
 
 echo -e "\033[0;32mAdding public as a submodule...\033[0m"
 git submodule add --force https://github.com/viveknallur/viveknallur.github.io.git public 
@@ -30,7 +30,7 @@ git commit -m "$msg"
 echo -e "\033[0;32mDeploying updates to GitHub...\033[0m"
 
 # Push source and build repos.
-git push origin master
+git push origin master --force
 
 # Come Back
 cd ..
