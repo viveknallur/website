@@ -43,15 +43,15 @@
   </url>
   
   <url>
-    <loc>http://viveknallur.github.io/contact/details/</loc>
-  </url>
-  
-  <url>
     <loc>http://viveknallur.github.io/contact/about/</loc>
   </url>
   
   <url>
-    <loc>http://viveknallur.github.io/smarthopper/introduction/</loc>
+    <loc>http://viveknallur.github.io/contact/details/</loc>
+  </url>
+  
+  <url>
+    <loc>http://viveknallur.github.io/smarthopper/on_youtube/</loc>
   </url>
   
   <url>
@@ -59,7 +59,7 @@
   </url>
   
   <url>
-    <loc>http://viveknallur.github.io/smarthopper/on_youtube/</loc>
+    <loc>http://viveknallur.github.io/smarthopper/introduction/</loc>
   </url>
   
 </urlset>
