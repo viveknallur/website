@@ -27,10 +27,16 @@ fi
 echo -e "\033[0;32mCommitting...\033[0m"
 git commit -m "$msg"
 
-echo -e "\033[0;32mDeploying updates to GitHub...\033[0m"
-
+echo -e "\033[0;32mDeploying updates to GitHub.io ...\033[0m"
 # Push source and build repos.
 git push origin master --force
 
 # Come Back
 cd ..
+
+echo -e "\033[0;32mCommitting to the website repo ...\033[0m"
+git add --all :/
+git commit -m "$msg"
+
+echo -e "\033[0;32mPushings to the website repo ...\033[0m"
+git push origin master
