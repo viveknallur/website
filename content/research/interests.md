@@ -5,6 +5,7 @@ image: "/images/research/no-failed-experiment.jpg"
 tags: ["research", "self-adaptive", "emergence", "socio-technical systems","feedback loops"]
 date: "2014-04-02"
 slug: ""
+layout: "post"
 ---
 I'm very interested in complex self-adaptive systems, engineering emergent 
 feedback loops, predicting and controlling emergence in humano-tech systems 

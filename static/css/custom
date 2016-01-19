@@ -1,0 +1,12 @@
+.pubentry p {
+margin-left:1.5em;
+}
+.pubentry .ui-closed:before {
+  font-family:monospace;
+  content:"+ ";
+}
+
+.pubentry .ui-open:before {
+  font-family:monospace;
+  content:"- ";
+}

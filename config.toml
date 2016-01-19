@@ -169,25 +169,26 @@ SectionPagesMenu = "Main"
 
         [[Params.Cells.List]]
 
-            name = "Research"
-            link = "research/"
-            image = "images/oldman.jpg"
-			always_show_text = true
-
-        [[Params.Cells.List]]
-
             name = "Diversify"
             link = "diversify/"
             image = "images/ecosystem.jpg"
 			always_show_text = true
 
+		[[Params.Cells.List]]
+
+            name = "Research"
+            link = "research/"
+            image = "images/oldman.jpg"
+			always_show_text = true			
+			
         [[Params.Cells.List]]
 
             name = "Smart and Sustainable Cities"
             link = "smartcities/"
             image = "images/sustainablecity.jpg"
             always_show_text = true
-
+		
+		
         [[Params.Cells.List]]
 
             name = "SmartHopper"

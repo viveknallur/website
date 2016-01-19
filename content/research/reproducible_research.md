@@ -5,6 +5,7 @@ tags: ["research", "self-adaptive", "emergence", "socio-technical
 systems","feedback loops"]
 date: "2015-08-02"
 slug: ""
+layout: "post"
 ---
 
 ------------------------------------------------------
