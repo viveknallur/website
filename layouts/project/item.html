@@ -13,8 +13,6 @@
                         {{ if or (or (isset .Params "video_mp4") (isset .Params "video_ogv")) (or (isset .Params "video_webm") (isset .Params "video_3gp")) }}
                             {{ .Scratch.Set "class" "rounded-corners-top fill-container-width" }}
                             {{ partial "extra/video.html" . }}
-                        {{ else }}
-                            <img src="{{ $baseUrl }}{{ $image }}" class="fill-container-width rounded-corners-top" />
                         {{ end }}
                     </div>
                     <div class="rounded-corners-bottom center-text project-container-title">

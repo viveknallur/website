@@ -5,7 +5,7 @@ tags: ["research", "self-adaptive", "emergence", "socio-technical
 systems","feedback loops"]
 date: "2015-08-02"
 slug: ""
-layout: "post"
+layout: "research"
 ---
 
 ------------------------------------------------------
@@ -14,7 +14,7 @@ layout: "post"
 > than redoing so much of it in a trivially different way. 
 >
 ------------------------------------------------------
--- Richard Hamming (From Turing Award lecture(1968))
+-- Richard Hamming (From Turing Award lecture(1968))<!--more-->
 *Journal of the ACM (Jan 1969), 16, No. 1, 10.*
 
 #### Reproducing and Sharing Results of Experiments in Software Engineering

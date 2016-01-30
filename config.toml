@@ -198,7 +198,7 @@ SectionPagesMenu = "Main"
 
         [[Params.Cells.List]]
 
-            name = "About Me"
+            name = "About"
             link = "contact/"
             image = "images/grinning-mug.jpg"
 			always_show_text = true

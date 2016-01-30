@@ -8,7 +8,7 @@ slug: ""
 date: "2015-11-05"
 ---
 
-##### FutureCities now has a Youtube! channel <!--more-->
+FutureCities now has a Youtube! channel <!--more-->
 
 The FutureCities centre now has a Youtube! channel, so it's easier to find all
 of our work (when you're not looking up our papers ;))
