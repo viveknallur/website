@@ -6,8 +6,7 @@ date: "2014-04-02"
 slug: ""
 layout: "research"
 ---
-We are all measured by a number these days, regardless of whether such measurement serves a purpose in knowing how good a person is. I am too small a fish, in the ocean of academia 
-for my railing against **h-indices** and their ilk, to matter. So, here's the mandatory Google Scholar link that leads to the citation count, for me:
+We are all measured by a number these days.<!--more--> So, here's the mandatory Google Scholar link that leads to the citation count, for me:
 
 
 ##### [Google Scholar Link](https://scholar.google.com/citations?user=TeqJsjcAAAA)
