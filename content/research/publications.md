@@ -33,7 +33,7 @@ Ninth IEEE Self-Adaptive and Self-Organizing Workshops (SASOW), September 2015
 *Smart Route Planning Using Open Data and Participatory Sensing*  \[[Author preprint](/pubs/SmartRoutePlanning.pdf)\]   
 11^th Conference on Open Source Systems: Adoption and Impact  
 
-*Towards Decentralized Detection of Emergence in Complex Adaptive Systems*  
+*Towards Decentralized Detection of Emergence in Complex Adaptive Systems* \[[Author preprint](/pubs/Saso-Emergence.pdf)\]     
 Eighth IEEE Conference on Self-Adaptive and Self-Organizing Systems, September 2014  
 
 *It's good to be different: Diversity, Heterogeneity and Dynamics in Collective Systems*  \[[Author preprint](/pubs/sasow-14.pdf)\]   
@@ -45,7 +45,7 @@ IEEE Transactions on Software Engineering, Vol 39:5, Pages 591--612, 2013
 *Self-Adapting Applications Based on QA Requirements in the Cloud Using Market-Based Heuristics*  \[[Author preprint](/pubs/servicewave-2010.pdf)\]   
 Towards a Service-Based Internet, SERVICEWAVE, 2010  
 
-*Design of a Market-Based Mechanism for Quality Attribute Tradeoff of Services in the Cloud*     
+*Design of a Market-Based Mechanism for Quality Attribute Tradeoff of Services in the Cloud* \[[Author preprint](/pubs/SAC-preprint.pdf)\]  
 25^th ACM Symposium on Applied Computing, 2010  
 
 *Self-optimizing architecture for ensuring Quality Attributes in the Cloud*  \[[Author preprint](/pubs/wicsa-ecsa-2009.pdf)\]   
