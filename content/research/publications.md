@@ -15,11 +15,13 @@ We are all measured by a number these days.<!--more--> So, here's the mandatory 
 ##### The List (in reverse chronological order)
 
 
-*Clonal Plasticity: A Mechanism For Decentralized Adaptation in Multi-Agent Systems* \[[Author preprint](/pubs/ClonalPlasticity.pdf)\]  
-Accepted for publication in [SEAMS'2016](http://seams2016.jgreen.de/), co-located with [ICSE'2016](http://2016.icse.cs.txstate.edu/) - 11th International Symposium on Software Engineering for Adaptive and Self-Managing Systems  
+*Clonal Plasticity: A Mechanism For Decentralized Adaptation in Multi-Agent 
+Systems* \[[Author preprint](/pubs/ClonalPlasticity.pdf)\]  
+[11th International Symposium on Software Engineering for Adaptive and 
+Self-Managing Systems](http://dl.acm.org/citation.cfm?id=2897067)
 
 *Algorithm Diversity - A Mechanism for Distributive Justice in a Socio-Technical MAS* \[[Author preprint](/pubs/aamas2016.pdf)\]    
-Accepted for publication in [AAMAS'2016](http://sis.smu.edu.sg/aamas2016) - International Conference on Autonomous Agents and Multiagent Systems  
+[AAMAS'2016 - International Conference on Autonomous Agents and Multiagent Systems](http://dl.acm.org/citation.cfm?id=2936986)
 
 *Enabling Participatory Routing Using a Smart-City Platform*  
 1^st IEEE Smart Cities Conference, Guadalajara, October 2015  
