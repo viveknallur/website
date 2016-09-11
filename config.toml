@@ -25,7 +25,7 @@ SectionPagesMenu = "Main"
     # for posts, galleries, and projects
     infinite_scroll = true
 
-    # 
+    #
     # The post, project, and gallery sections can have infinite scroll turned
     # on/off individually. These values override the infinte_scroll option
     # above.
@@ -115,7 +115,7 @@ SectionPagesMenu = "Main"
     #
     # Contains the Cells representing the sections of your website. Each cell
     # contains the name of the cell, an image depicting what the content
-    # represents, and a link to use when the cell is clicked. 
+    # represents, and a link to use when the cell is clicked.
     #
     # Not providing an image will use the color specified by 'color' as the
     # background color (default to #FFF).
@@ -157,7 +157,7 @@ SectionPagesMenu = "Main"
 
             # Disables the normal cell highlight on hover
             #no_highlight = true
-            
+
             # Normally, a cell only shows text (its name) on hover, setting
             # this to true results in the cell always showing its text
             # and also using a dark overlay to make the white text be more
@@ -169,26 +169,30 @@ SectionPagesMenu = "Main"
 
         [[Params.Cells.List]]
 
-            name = "Diversify"
-            link = "diversify/"
-            image = "images/ecosystem.jpg"
-			always_show_text = true
-
+      #       name = "Diversify"
+      #       link = "diversify/"
+      #       image = "images/ecosystem.jpg"
+			# always_show_text = true
+              name = "Teaching"
+              link = "teaching/"
+              image = "images/math.jpg"
+              always_show_text = true
+                
 		[[Params.Cells.List]]
 
             name = "Research"
             link = "research/"
             image = "images/oldman.jpg"
-			always_show_text = true			
-			
+			always_show_text = true
+
         [[Params.Cells.List]]
 
             name = "Smart and Sustainable Cities"
             link = "smartcities/"
             image = "images/sustainablecity.jpg"
             always_show_text = true
-		
-		
+
+
         [[Params.Cells.List]]
 
             name = "SmartHopper"
@@ -202,4 +206,3 @@ SectionPagesMenu = "Main"
             link = "contact/"
             image = "images/grinning-mug.jpg"
 			always_show_text = true
-
