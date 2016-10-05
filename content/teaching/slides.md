@@ -13,3 +13,6 @@ found here.
 ##### Slides
 
 * [Introduction to the Module](/slides/01-introduction.pdf)
+* [Requirements Engineering](/slides/02-slides.pdf)
+* [Usecase Modelling](/slides/03-slides.pdf)
+* [Software Estimation](/slides/04-slides.pdf)
