@@ -16,3 +16,6 @@ found here.
 * [Requirements Engineering](/slides/02-slides.pdf)
 * [Usecase Modelling](/slides/03-slides.pdf)
 * [Software Estimation](/slides/04-slides.pdf)
+* [Introduction to Software Architecture](/slides/05-intro-to-architecture.pdf)
+* [Architectural Styles](/slides/06-slides.pdf)
+* [Architectural Styles - Continued](/slides/07-slides.pdf)
