@@ -19,3 +19,6 @@ found here.
 * [Introduction to Software Architecture](/slides/05-intro-to-architecture.pdf)
 * [Architectural Styles](/slides/06-slides.pdf)
 * [Architectural Styles - Continued](/slides/07-slides.pdf)
+* [Introduction to UML](/slides/08-intro-to-uml-class-diag.pdf)
+* [Introduction to Sequence Diagrams](/slides/09-intro-sequence-activity-diagrams.pdf)
+* [Other UML Diagrams](/slides/10-other-structural-diagrams.pdf)
