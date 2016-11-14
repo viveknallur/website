@@ -50,27 +50,30 @@ weekly sprint cycles. After the client describes the project requirements, the
 team will create a <u>Product Backlog</u> and a <u>Burn-down Chart</u>. The 
 final and weekly deliverables will be given in the detailed project 
 requirements. To enable weekly sprint cycles, and meetings with the client, some 
-lectures will be converted to meeting time. The client will assign each group, a 
-day and time for a meeting. The location will be the same as the normal lecture 
-location for that day.  Code must be committed to the team-leader's repository 
-(same as the one being used for the assignments), on the 'project' branch, for 
-every weekly sprint cycle.
+lectures will be converted to meeting time. Teams can request the client for a 
+meeting, by booking an [available slot](/teaching/client-meetings).  Code must 
+be committed to the team-leader's repository (same as the one being used for the 
+assignments), on the 'project' branch, for every weekly sprint cycle.
 
-There will be five sprint cycles:
+There will be four sprint cycles:
 
-1. The week of 14-Nov to 18-Nov
-2. The week of 21-Nov to 25-Nov
-3. The week of 28-Nov to 2-Dec
-4. The week of 5-Dec to 9-Dec
-5. The week of 12-Dec to 16-Dec
+1. 14-November to 21-November
+2. 22-November to 28-November
+3. 29-November to 5-December
+4. 6-December to 12-December
 
-At the end of the third sprint cycle, a _change request_ will be initiated by 
+Sprint deliverables are due the day after the end of the sprint. A list of 
+sprint deliverables and their schedule can be found 
+[here](/teaching/scrum-schedule).
+
+<br/>
+At the end of the second sprint cycle, a _change request_ will be initiated by 
 the client. This will modify the *Product Backlog*.
 <br/>
 
-The end of the fifth sprint cycle marks the end of the project, and the *Final 
+The end of the fourth sprint cycle marks the end of the project, and the *Final 
 Deliverables* mentioned in the detailed requirements must be committed to the 
-team-leader's repository by the end of 16-December, at the latest.
+team-leader's repository by the end of 13-December, at the latest.
 
 <hr/>
 

@@ -86,6 +86,12 @@ correctness, (b) performance vis-a-vis peers, ( c) performance vis-a-vis past
 performance
 
 ![Assignment Assessment Pattern](/images/cs3012/Assignment-Assessment-Pattern.png "The assessment pattern for cs3012")
+
+One of our demonstrators, Gary Munnelly, has put together a little document 
+along with code, test-cases, and scripts to give you a flavour of how the 
+evaluation of the individual assignments is done. Check it out 
+[here](/misc/sample_test_case.tar.gz). Thanks a bunch, Gary!
+
 <hr/>
 
 ##### Test Cases

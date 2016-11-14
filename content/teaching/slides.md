@@ -22,3 +22,10 @@ found here.
 * [Introduction to UML](/slides/08-intro-to-uml-class-diag.pdf)
 * [Introduction to Sequence Diagrams](/slides/09-intro-sequence-activity-diagrams.pdf)
 * [Other UML Diagrams](/slides/10-other-structural-diagrams.pdf)
+* [Intro to Design Patterns](/slides/11-intro-to-design-patterns.pdf)
+* [More Design Patterns] (/slides/12-more-design-patterns.pdf)
+* [Usability and Interaction](/slides/13-usability-and-interaction.pdf)
+* [Software Development Processes](/slides/14-sw-development-processes.pdf)
+* [XP and Scrum] (/slides/15-xp-scrum.pdf)
+* [Risk Management] (/slides/16-risk-mgmt.pdf)
+
