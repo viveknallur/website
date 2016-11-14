@@ -1,6 +1,6 @@
 # Site settings (baseurl must end with a trailing slash!)
-baseurl = "https://www.scss.tcd.ie/Vivek.Nallur/"
-#baseurl = "http://viveknallur.github.io/"
+#baseurl = "https://www.scss.tcd.ie/Vivek.Nallur/"
+baseurl = "http://viveknallur.github.io/"
 languageCode = "en-us"
 title = "Vivek Nallur"
 theme = "grid-side"
