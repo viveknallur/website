@@ -28,4 +28,6 @@ found here.
 * [Software Development Processes](/slides/14-sw-development-processes.pdf)
 * [XP and Scrum] (/slides/15-xp-scrum.pdf)
 * [Risk Management] (/slides/16-risk-mgmt.pdf)
+* [Software Testing] (/slides/17-software-testing.pdf)
+* [Business and Legal Aspects of Software Engineering] (/slides/18-biz-aspects-se.pdf)
 
