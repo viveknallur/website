@@ -7,11 +7,12 @@ echo -e "\033[0;32mRemoving the git cache of public...\033[0m"
 git rm -r --cached public
 
 echo -e "\033[0;32mAdding public as a submodule...\033[0m"
-git submodule add --force https://github.com/viveknallur/viveknallur.github.io.git public 
+git submodule add --force https://github.com/viveknallur/viveknallur.github.io.git public
 
 echo -e "\033[0;32mBuilding site...\033[0m"
 # Build the project.
-hugo # if using a theme, replace by `hugo -t <yourtheme>`
+/c/Users/student/Desktop/utils/hugo.exe
+#hugo # if using a theme, replace by `hugo -t <yourtheme>`
 
 # Go To Public folder
 cd public
