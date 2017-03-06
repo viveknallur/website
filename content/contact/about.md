@@ -14,7 +14,9 @@ paragraph!
 
 Research
 --------
-I am a lecturer/assistant professor at [School of Computer Science](https://www.cs.ucd.ie/). Previously, I used to work as a [Research Fellow]({{ site.baseurl }}/research.html) with the 
+I am currently working as a lecturer/assistant professor in the [School of Computer Science](https://www.cs.ucd.ie/), at [University College Dublin](http://www.ucd.ie/). 
+
+Previously, I used to work as a [Research Fellow]({{ site.baseurl }}/research.html) with the 
 [Distributed Systems Group](http://www.dsg.cs.tcd.ie) in the [School of 
 Computer Science & Statistics](http://www.scss.tcd.ie) at [Trinity College 
 Dublin](http://www.tcd.ie).
