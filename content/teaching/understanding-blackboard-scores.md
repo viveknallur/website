@@ -43,7 +43,7 @@ The seventh column shows the aggregate marks (out of 35). The aggregate marks fo
 
 #### Scrum-Based Mini-Project
 
-Each project will be graded independently by three graders. Each grader will grade the sprints, as well as the final deliverable, and award a total mark out of 100. The marking table for the  mini-project is as follows:
+Each project will be marked independently by three graders (the project's final score will be the arithmetic mean of three marks). Each grader will mark the sprints, as well as the final deliverable, and award a total mark out of 100. The marking table for the  mini-project is as follows:
 
 | Marks | Explanation |
 |:------:|:-------------:|

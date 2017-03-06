@@ -14,12 +14,12 @@ paragraph!
 
 Research
 --------
-I work as a [Research Fellow]({{ site.baseurl }}/research.html) with the 
+I am a lecturer/assistant professor at [School of Computer Science](https://www.cs.ucd.ie/). Previously, I used to work as a [Research Fellow]({{ site.baseurl }}/research.html) with the 
 [Distributed Systems Group](http://www.dsg.cs.tcd.ie) in the [School of 
 Computer Science & Statistics](http://www.scss.tcd.ie) at [Trinity College 
 Dublin](http://www.tcd.ie).
 
 
-Current Project
+Past Project
 ---------------
-I work on an EU project called [Diversify](http://diversify-project.eu) which aims at using 'Diversity' as a foundational principle in making better collaborative adaptive systems. My main interest is in self-adaptive systems, engineering them, predicting/controlling their various properties, getting them to collaborate, and  preventing/boosting emergent effects.
+At Trinity, I used to work on an EU project called [Diversify](http://diversify-project.eu) which aims at using 'Diversity' as a foundational principle in making better collaborative adaptive systems. My main interest is in self-adaptive systems, engineering them, predicting/controlling their various properties, getting them to collaborate, and  preventing/boosting emergent effects.

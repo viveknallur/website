@@ -65,7 +65,7 @@ SectionPagesMenu = "Main"
         description = "The (Mostly) Academic Life of Vivek Nallur"
 
         # This is optional
-        email = "&#118;&#105;&#118;&#101;&#107;&#46;&#110;&#97;&#108;&#108;&#117;&#114;&#64;&#115;&#99;&#115;&#115;&#46;&#116;&#99;&#100;&#46;&#105;&#101;"
+        #email = "&#118;&#105;&#118;&#101;&#107;&#46;&#110;&#97;&#108;&#108;&#117;&#114;&#64;&#115;&#99;&#115;&#115;&#46;&#116;&#99;&#100;&#46;&#105;&#101;"
 
         # Not providing this results in a color being used
         image = "images/gorilla.jpg"
