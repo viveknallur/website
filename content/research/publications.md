@@ -14,6 +14,8 @@ We are all measured by a number these days.<!--more--> So, here's the mandatory 
 
 ##### The List (in reverse chronological order)
 
+*Decentralised Detection of Emergence in Complex Adaptive Systems* \[[Author preprint](/pubs/DetectInCas.pdf)\]  
+Accepted for publication in ACM Transactions on Autonomous and Adaptive Systems (TAAS) in November, 2016
 
 *Clonal Plasticity: A Mechanism For Decentralized Adaptation in Multi-Agent 
 Systems* \[[Author preprint](/pubs/ClonalPlasticity.pdf)\]  
